@@ -1,1 +1,485 @@
+📘 TEST EGZAMINACYJNY INF.04 – 50 PYTAŃ
+
+1. W języku C++ zmienna typu char służy do przechowywania:
+A) liczb zmiennoprzecinkowych
+ B) pojedynczego znaku ✔️
+ C) wartości logicznych
+ D) ciągów tekstowych
+Wyjaśnienie: char przechowuje dokładnie jeden znak.
+
+2. Który język jest tradycyjnie używany do tworzenia aplikacji Android w Android Studio?
+A) Swift
+ B) Java ✔️
+ C) PHP
+ D) C++
+Wyjaśnienie: Java (oraz Kotlin) są głównymi językami Androida.
+
+3. W Pythonie żeby wypisać tekst „Hello” używa się funkcji:
+A) print() ✔️
+ B) echo()
+ C) println()
+ D) write()
+Wyjaśnienie: print() to funkcja standardowa Pythona do wyświetlania tekstu.
+
+4. W PHP kodu HTML wstawiamy wewnątrz:
+A) <?php echo ... ?> ✔️
+ B) %html% ... %end%
+ C) <script>
+ D) {php}
+Wyjaśnienie: <?php … ?> to standardowy tag PHP.
+
+5. W C++ operator == oznacza:
+A) przypisanie
+ B) porównanie wartości ✔️
+ C) bitowy AND
+ D) konkatenację
+Wyjaśnienie: == służy do porównywania.
+
+6. W Android Studio Activity reprezentuje:
+A) bazę danych
+ B) ekran aplikacji ✔️
+ C) bibliotekę CSS
+ D) plik PHP
+Wyjaśnienie: Activity to pojedynczy interfejs ekranu w aplikacji Android.
+
+7. W Pythonie pętlę for stosuje się do:
+A) deklaracji funkcji
+ B) iterowania po kolekcji ✔️
+ C) tworzenia klasy
+ D) importu modułów
+
+8. PHP jest językiem:
+A) low-level
+ B) kompilowanym
+ C) skryptowym ✔️
+ D) tylko mobilnym
+Wyjaśnienie: PHP jest językiem interpretowanym skryptowym.
+
+
+
+
+
+9. W C++ std::vector to:
+A) element GUI
+ B) kontener dynamiczny ✔️
+ C) stała matematyczna
+ D) typ logiczny
+Wyjaśnienie: vector to dynamiczna tablica STL.
+
+10. Jaką rolę pełni plik AndroidManifest.xml?
+A) Transpiluje kod
+ B) Rejestruje komponenty aplikacji ✔️
+ C) Generuje UI
+ D) Kompiluje kod C++
+Wyjaśnienie: Manifest opisuje np. Activity, uprawnienia.
+
+11. W Pythonie def służy do:
+A) definiowania funkcji ✔️
+ B) wywoływania klasy
+ C) deklaracji zmiennej
+ D) komentarza
+
+12. W PHP do pracy z bazą MySQL używa się funkcji:
+A) mysqli_* ✔️
+ B) json_encode
+ C) curl_init
+ D) phpinfo
+
+13. W C++ dziedziczenie umożliwia:
+A) wielokrotne wejście programu
+ B) tworzenie klas potomnych ✔️
+ C) wyświetlanie tekstu
+ D) obsługę plików
+
+14. W Android Studio layout definiuje się w:
+A) .java
+ B) .xml ✔️
+ C) .php
+ D) .py
+
+15. Python jest językiem:
+A) statycznie typowanym
+ B) dynamicznie typowanym ✔️
+ C) tylko funkcyjnym
+ D) tylko proceduralnym
+
+16. W PHP tablicę indeksowaną tworzy się za pomocą:
+A) array() ✔️
+ B) list()
+ C) set()
+ D) vector()
+
+17. W C++ wskaznik (pointer) to:
+A) referencja do pliku
+ B) zmienna przechowująca adres pamięci ✔️
+ C) operator porównania
+ D) funkcja matematyczna
+
+18. W Android Studio onCreate() to metoda:
+A) kończąca aplikację
+ B) uruchamiana przy starcie Activity ✔️
+ C) do zapisu danych
+ D) do obsługi sieci
+
+
+19. W Pythonie import służy do:
+A) dodawania modułów ✔️
+ B) deklarowania klasy
+ C) kompilowania
+ D) generowania UI
+
+20. PHP działa głównie po stronie:
+A) klienta
+ B) serwera ✔️
+ C) CPU
+ D) bazy danych
+
+21. W C++ funkcja główna programu to:
+A) start()
+ B) main() ✔️
+ C) run()
+ D) go()
+
+22. Android Studio bazuje na narzędziu:
+A) Unreal Engine
+ B) Gradle ✔️
+ C) Django
+ D) Laravel
+
+23. len(s) w Pythonie zwraca:
+A) długość listy/łańcucha ✔️
+ B) typ zmiennej
+ C) wartość logiczną
+ D) element tablicy
+
+
+
+24. PHP echo służy do:
+A) sortowania danych
+ B) wyświetlania tekstu ✔️
+ C) importu klas
+ D) debugowania
+
+25. W C++ std::string to:
+A) liczba zmiennoprzecinkowa
+ B) typ łańcuchowy ✔️
+ C) instrukcja pętli
+ D) tablica binarna
+
+26. W Pythonie wyjątek przechwytuje się przez:
+A) try…except ✔️
+ B) catch
+ C) throw
+ D) error
+
+27. W PHP komentarz jednolinijkowy to:
+A) // ✔️
+ B) /* */
+ C) /**/
+ D) $$
+
+28. W C++ pętlę nieskończoną zapiszesz jako:
+A)while(true) ✔️
+ B) loop()
+ C) repeat while
+ D) infinite()
+
+
+
+
+30. Android Intent służy do:
+A) logowania
+ B) komunikacji między komponentami ✔️
+ C) sortowania danych
+ D) edycji textview
+
+31. Python funkcja bez wartości zwraca:
+A) void
+ B) None ✔️
+ C) null
+ D) 0
+
+32. PHP superglobalna zmienna to:
+A) $this
+ B) $_POST ✔️
+ C) @global
+ D) #super
+
+33. W C++ new służy do:
+A) tworzenia obiektu dynamicznie ✔️
+ B) kopiowania funkcji
+ C) sortowania
+ D) wyświetlania
+
+34. Android Studio emulator emuluje:
+A) serwer PHP
+ B) urządzenie Android ✔️
+ C) bazę danych
+ D) system Linux
+
+
+
+35. Python list comprehension to:
+A) pętla graficzna
+ B) sposób tworzenia listy ✔️
+ C) typ logiczny
+ D) debugger
+
+36. PHP PDO służy do:
+A) obsługi bazy danych ✔️
+ B) tworzenia grafiki
+ C) animacji CSS
+ D) kompilacji
+
+37. W C++ cout jest używane do:
+A) wczytywania danych
+ B) wyświetlania danych ✔️
+ C) tworzenia klasy
+ D) importu
+
+38. W Android Studio layouty umieszczamy w:
+A) /res/layout ✔️
+ B) /assets
+ C) /src/php
+ D) /bin
+
+39. Python moduł os służy do:
+A) operacji systemowych ✔️
+ B) sortowania tablic
+ C) renderowania HTML
+ D) zapisu PHP
+
+
+
+
+40. PHP foreach służy do:
+A) iterowania po tablicy ✔️
+ B) tworzenia klasy
+ C) obsługi sesji
+ D) definiowania funkcji
+
+41. W C++ deklarujesz tablicę jako:
+A) vector<int> v
+ B) int arr[10] ✔️
+ C) list arr
+ D) dict arr
+
+42. Android Studio projekt składa się z:
+A) klas, zasobów, manifestu ✔️
+ B) tylko kodu
+ C) tylko obrazków
+ D) tylko PHP
+
+43. Python dict to:
+A) ciąg znaków
+ B) słownik — mapa klucz->wartość ✔️
+ C) liczba
+ D) funkcja
+
+44. PHP include służy do:
+A) importowania pliku ✔️
+ B) sortowania
+ C) deklarowania klas
+ D) testowania
+
+
+
+
+45. W C++ bool to:
+A) znak
+ B) logiczny typ ✔️
+ C) liczba zmiennoprzecinkowa
+ D) struktura
+
+46. Android Toast służy do:
+A) komunikatu użytkownikowi ✔️
+ B) layoutu
+ C) bazy danych
+ D) PHP
+
+47. W Pythonie pętle while kończymy, gdy:
+A) warunek jest false ✔️
+ B) true
+ C) puste
+ D) None
+
+48. PHP $_GET pobiera:
+A) dane z formularza GET ✔️
+ B) plik CSS
+ C) obrazki
+ D) JavaScript
+
+49. W C++ funkcja deklarowana jest z:
+A) return type ✔️
+ B) tylko nazwą
+ C) bez typu
+ D) w Pythonie
+
+
+
+
+50. Android Studio obsługuje język:
+A) SQL
+ B) Java i Kotlin ✔️
+ C) Swift
+ D) Ruby
+
+
+📘 DODATKOWY BLOK PYTAŃ – JAVA & ANDROID STUDIO (20 pytań)
+
+1. W języku Java modyfikator public oznacza, że metoda jest dostępna:
+A) tylko wewnątrz tej samej klasy
+ B) tylko w pakiecie
+ C) z każdego miejsca programu ✔️
+ D) tylko dla klas potomnych
+Wyjaśnienie: public pozwala na dostęp do metody z dowolnej klasy.
+
+2. Jak oznacza się komentarz wieloliniowy w języku Java?
+A) // … //
+ B) /* … */ ✔️
+ C) <!-- … -->
+ D) """ … """
+Wyjaśnienie: /* */ to standardowy komentarz blokowy w Javie.
+
+3. Który typ w Javie przechowuje pojedynczy znak?
+A) String
+ B) char ✔️
+ C) int
+ D) boolean
+Wyjaśnienie: char przechowuje pojedynczy znak Unicode.
+
+4. Środowisko najczęściej używane do tworzenia aplikacji Android to:
+A) Eclipse
+ B) Visual Studio
+ C) Android Studio ✔️
+ D) NetBeans
+Wyjaśnienie: Android Studio to oficjalne IDE Google do Androida.
+
+5. Która z poniższych instrukcji w Androidzie uruchamia kolejną aktywność?
+A) setContentView()
+ B) startActivity(intent) ✔️
+ C) onCreate()
+ D) findViewById()
+Wyjaśnienie: startActivity() uruchamia nową aktywność. Koncept egzaminacyjny.
+
+6. W Javie metoda main musi być:
+A) statyczna ✔️
+ B) prywatna
+ C) abstrakcyjna
+ D) finalna
+Wyjaśnienie: public static void main(...) to punkt startowy aplikacji.
+
+7. Layout ekranu w Androidzie definiuje się w pliku:
+A) .java
+ B) .kt
+ C) .xml ✔️
+ D) .json
+Wyjaśnienie: UI Androida definiuje się w XML-u.
+
+
+
+
+8. W Javie klasę potomną tworzy się poprzez słowo kluczowe:
+A) implements
+ B) extends ✔️
+ C) inherits
+ D) imports
+Wyjaśnienie: extends służy do dziedziczenia w Javie.
+
+9. W Androidzie plik AndroidManifest.xml zawiera:
+A) listę Activity i uprawnień ✔️
+ B) tylko layouty
+ C) bazę danych
+ D) kod Javy
+Wyjaśnienie: Manifest deklaruje komponenty i uprawnienia appki.
+
+10. W Javie wyjątek można obsłużyć przy pomocy:
+A) if/else
+ B) try/catch ✔️
+ C) switch
+ D) label
+Wyjaśnienie: try/catch służy do obsługi wyjątków.
+
+11. W Android Studio zasób R.drawable oznacza:
+A) layout
+ B) obrazki ✔️
+ C) modele danych
+ D) zmienne
+Wyjaśnienie: drawable to folder obrazków — zasoby graficzne. Koncept egzaminacyjny.
+
+
+
+
+
+12. W Javie metoda z parametrem String[] args oznacza:
+A) przyjmuje tablicę argumentów ✔️
+ B) zwraca tablicę
+ C) jest prywatna
+ D) nie może być statyczna
+Wyjaśnienie: String[] args to argumenty wejściowe main().
+
+13. Aby pobrać przycisk z layoutu w Androidzie używamy:
+A) getButton()
+ B) findViewById() ✔️
+ C) fetchView()
+ D) getResource()
+Wyjaśnienie: findViewById() zwraca reference UI. Powszechne pytanie.
+
+14. Który modyfikator dostępu w Javie oznacza dostęp tylko wewnątrz klasy?
+A) private ✔️
+ B) public
+ C) protected
+ D) default
+Wyjaśnienie: private ogranicza dostęp do tej samej klasy.
+
+15. Intencja Androida (Intent) służy do:
+A) animacji
+ B) komunikacji między komponentami ✔️
+ C) stylowania
+ D) kompilacji
+Wyjaśnienie: Intenty przekazują informacje i uruchamiają Activity.
+
+
+
+
+16. W Javie System.out.println() służy do:
+A) wczytywania danych
+ B) wypisywania danych ✔️
+ C) kompilacji
+ D) usuwania
+Wyjaśnienie: Standardowa metoda wypisywania tekstu.
+
+17. W Androidzie AVD oznacza:
+A) Android Version Drive
+ B) Android Virtual Device ✔️
+ C) Android Video Debug
+ D) App View Debugger
+Wyjaśnienie: AVD to emulator urządzenia Android.
+
+18. Który typ wyjątków w Javie należy obsługiwać lub deklarować?
+A) Error
+ B) RuntimeException
+ C) Checked Exception ✔️
+ D) LogicError
+Wyjaśnienie: Checked exceptions muszą być lub obsłużone. Typowe zagadnienie.
+
+19. W Android Studio layouty umieszczamy w katalogu:
+A) /res/drawable
+ B) /res/layout ✔️
+ C) /java
+ D) /assets
+Wyjaśnienie: /res/layout to miejsce plików XML layoutów.
+
+
+
+
+
+
+20. W Javie interfejsy implementuje się przez słowo kluczowe:
+A) inherits
+ B) implements ✔️
+ C) extends
+ D) includes
+Wyjaśnienie: implements używamy do implementowania interfejsów.
+
 
